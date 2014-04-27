@@ -1,0 +1,16 @@
+#forexcast {
+	position: relative;
+}
+
+#worldmap {
+	width: 100%;
+}
+
+.weather.icon {
+	width: 5%;
+	position: absolute;
+}
+
+.weather.icon img {
+	width: 100%;
+}
